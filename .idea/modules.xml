@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lab02.iml" filepath="$PROJECT_DIR$/lab02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lab02.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lab02.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lab02.test.iml" filepath="$PROJECT_DIR$/.idea/modules/lab02.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab03.iml" filepath="$PROJECT_DIR$/lab03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lab03.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lab03.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lab03.test.iml" filepath="$PROJECT_DIR$/.idea/modules/lab03.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/teme-lab-danhepai.iml" filepath="$PROJECT_DIR$/.idea/teme-lab-danhepai.iml" />
+    </modules>
+  </component>
+</project>
