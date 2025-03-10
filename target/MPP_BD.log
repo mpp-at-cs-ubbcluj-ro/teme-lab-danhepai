@@ -1,0 +1,22 @@
+10 Mar 2025 10:39:45,350 INFO  org.example.CarsDBRepository 16 <init> - Initializing CarsDBRepository with properties: {} 
+10 Mar 2025 10:40:03,828 INFO  org.example.CarsDBRepository 16 <init> - Initializing CarsDBRepository with properties: {} 
+10 Mar 2025 10:41:59,841 INFO  org.example.CarsDBRepository 16 <init> - Initializing CarsDBRepository with properties: {} 
+10 Mar 2025 10:43:15,153 INFO  org.example.CarsDBRepository 16 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:lab03d} 
+10 Mar 2025 10:46:44,188 INFO  org.example.CarsDBRepository 21 <init> - Initializing CarsDBRepository with properties: {} 
+10 Mar 2025 10:46:44,193 TRACE org.example.CarsDBRepository 45 add - Enter saving car Id=0 Tesla Model S 2019 
+10 Mar 2025 10:46:44,193 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2025 10:46:44,193 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 10:46:44,193 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+10 Mar 2025 10:46:44,193 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2025 10:46:44,194 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2025 10:46:44,195 ERROR org.example.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+10 Mar 2025 10:46:44,196 TRACE org.example.JdbcUtils 57 getConnection - Exit
+10 Mar 2025 10:48:08,665 INFO  org.example.CarsDBRepository 21 <init> - Initializing CarsDBRepository with properties: {} 
+10 Mar 2025 10:48:08,669 TRACE org.example.CarsDBRepository 45 add - Enter saving car Id=0 Tesla Model S 2019 
+10 Mar 2025 10:48:08,670 TRACE org.example.JdbcUtils 48 getConnection - Enter
+10 Mar 2025 10:48:08,670 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+10 Mar 2025 10:48:08,670 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+10 Mar 2025 10:48:08,670 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+10 Mar 2025 10:48:08,670 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+10 Mar 2025 10:48:08,671 ERROR org.example.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+10 Mar 2025 10:48:08,671 TRACE org.example.JdbcUtils 57 getConnection - Exit
